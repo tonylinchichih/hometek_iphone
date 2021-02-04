@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  linphone
+
+  Created by Lai Lee on 2020/7/19.
+  
+*/
+
+"CFBundleDisplayName" = "智慧生活家3";
+"CFBundleName" = "智慧生活家";
+"PRODUCT_NAME" = "智慧生活家3";
+"NSCameraUsageDescription" = "視頻通話需要使用攝像頭";

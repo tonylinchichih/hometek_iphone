@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  linphone
+
+  Created by Lai Lee on 2020/7/19.
+  
+*/
+
+"CFBundleDisplayName" = "Hometek3";
+"CFBundleName" = "Hometek";
+"PRODUCT_NAME" = "Hometek3";
+"NSCameraUsageDescription" = "Camera access needed for video calling";
